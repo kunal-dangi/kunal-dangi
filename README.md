@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Kunal+%F0%9F%91%8B;Engineering+Student;Learning+to+Build+Things;Currently+diving+into+React+JS&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+<img src="./assets/github-scan-card.svg" alt="System Scan" width="720" />
 
 </div>
-
 ---
 
 ### 🚀 About Me
